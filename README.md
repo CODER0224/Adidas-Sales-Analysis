@@ -55,7 +55,7 @@ This dashboard helps monitor key sales metrics such as total revenue, profit, pr
 
 ## 📸 Preview
 
-![Dashboard Preview](./your-dashboard-image.png)
+![Dashboard Preview](https://github.com/CODER0224/Adidas-Sales-Analysis/blob/main/Adidas%20Sales%20Dashboard.png)
 
 
 ## 🚀 Getting Started
