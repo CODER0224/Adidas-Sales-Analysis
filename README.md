@@ -7,7 +7,6 @@ A visually engaging and interactive Power BI dashboard that provides insights in
 
 This dashboard helps monitor key sales metrics such as total revenue, profit, product performance, retailer contribution, and regional trends. It allows stakeholders to explore patterns and make informed business decisions using interactive visuals and dynamic filters.
 
----
 
 ## 🎯 Objectives
 
@@ -17,7 +16,6 @@ This dashboard helps monitor key sales metrics such as total revenue, profit, pr
 - Compare sales by region using visual segmentation  
 - Provide Q&A support for dynamic, natural-language queries  
 
----
 
 ## 📊 Key Insights
 
@@ -30,7 +28,6 @@ This dashboard helps monitor key sales metrics such as total revenue, profit, pr
 - **Lowest Sales Month**: March  
 - **Peak Sales Month**: August  
 
----
 
 ## 🧩 Dashboard Features
 
@@ -43,27 +40,23 @@ This dashboard helps monitor key sales metrics such as total revenue, profit, pr
 - Natural Language **Q&A panel** for live querying  
 - Smart Narrative for auto-generated executive summary  
 
----
 
 ## 🛠️ Built With
 
 - [Power BI](https://powerbi.microsoft.com/)  
 - Microsoft Excel (Data Source)
 
----
 
 ## 📁 Dataset
 
 - **Source**: Sample Adidas US Sales dataset (Excel format)
 - Structured and cleaned before model design
 
----
 
 ## 📸 Preview
 
 ![Dashboard Preview](./your-dashboard-image.png)
 
----
 
 ## 🚀 Getting Started
 
@@ -72,7 +65,6 @@ To explore this project:
 2. Open it in Power BI Desktop  
 3. Interact using slicers, filters, and Q&A panel
 
----
 
 ## 📚 Learnings
 
@@ -82,13 +74,11 @@ This project helped reinforce:
 - UI/UX best practices for dashboards  
 - Applying real-world BI on retail sales data  
 
----
 
 ## 💡 Why This Topic?
 
 Adidas is a globally recognized brand with rich, multi-dimensional sales data. Analyzing such a dataset provides practical exposure to **business performance tracking**, especially in retail and product-based sectors. This topic offers strong relevance for both marketing and data analytics portfolios.
 
----
 
 ## 📬 Contact
 
