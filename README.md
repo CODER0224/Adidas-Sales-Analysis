@@ -2,7 +2,6 @@
 
 A visually engaging and interactive Power BI dashboard that provides insights into Adidas's sales performance across the United States. This project transforms raw data into meaningful analytics for strategic decision-making.
 
----
 
 ## 📌 Project Overview
 
